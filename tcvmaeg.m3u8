@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:22085
+#EXT-X-TARGETDURATION:5
+https://a8.radyotelekom.com.tr:3090/hybrid/play.m3u8
